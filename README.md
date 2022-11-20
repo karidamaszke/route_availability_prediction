@@ -5,3 +5,7 @@ Project created during the AIGames '22 hackathon. Task definition:
 Seattle-Tacoma (KSEA), Dallas Fort Worth (KDFW) & Houston George Bush (KIAH). You will be
 given observational weather data and your task will be to predict the status of a route in 1 hour
 from weather data’s timestamp.
+
+<p align="center">
+  <img src="imgs/map.png" alt="Example of airport routes"/>
+</p>
